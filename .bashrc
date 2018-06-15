@@ -2,9 +2,6 @@
 # On terminal load
 ###
 
-# Open the terminal to Minx
-cd ~/stitchfix/minx
-
 # Initialize rbenv
 # export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
